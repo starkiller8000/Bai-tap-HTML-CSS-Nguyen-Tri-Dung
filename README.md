@@ -4,3 +4,9 @@
 https://github.com/starkiller8000/Porfolio_simple---pure-HTML-CSS
 
 Live host: https://starkiller8000.github.io/Porfolio_simple---pure-HTML-CSS/
+
+2) Tailwind Repo:
+
+https://github.com/starkiller8000/Porfolio_simple---Tailwind
+
+Live host: https://starkiller8000.github.io/Porfolio_simple---Tailwind/
